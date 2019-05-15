@@ -17,14 +17,14 @@ pip install towise
 ```
 To import your project
 ```python
-import towise.API import Towise
+from towise import Towise
 ```
 ### Using Towise
 You must enter appKey and appId
 
 For Example:
 ```python
-import towise.API import Towise
+from towise import Towise
 
 if __name__ = "__main__":
     image_url = "https://cdn.onebauer.media/one/media/5c6e/80bc/d007/9656/5f0a/6c12/dua-lipa-brits.jpg"
