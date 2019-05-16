@@ -1,1 +1,1 @@
-from towise.towise import Towise
+from towise.Towise import Towise
